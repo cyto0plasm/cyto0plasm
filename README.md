@@ -1,10 +1,5 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙔𝙤𝙪𝙨𝙞𝙛 𝙕𝙖𝙠𝙮
 
-[![](https://img.shields.io/badge/-@yourtwitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/yourtwitter)
-[![](https://img.shields.io/badge/-@yourgithub-%23181717?style=flat-square&logo=github)](https://github.com/yourgithub)
-[![](https://img.shields.io/badge/-@yourcodepen-%23000000?style=flat-square&logo=codepen)](https://codepen.io/yourcodepen)
-[![](https://img.shields.io/badge/-@yourcodesandbox-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/yourcodesandbox)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=yourwebsite.com&url=https%3A%2F%2Fyourwebsite.com)](https://yourwebsite.com)
 
 𝑰 ❤️ 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
@@ -16,7 +11,7 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![My Vue Project](https://svg.bookmark.style/api?url=https://github.com/yourgithub/vue-project&mode=light&style=horizontal)](https://github.com/yourgithub/vue-project)
+[![Taskly-Web](https://github.com/cyto0plasm/Taskly-Web.git)
 [![Flutter App](https://svg.bookmark.style/api?url=https://github.com/yourgithub/flutter-app&mode=dark&style=horizontal)](https://github.com/yourgithub/flutter-app)
 [![Laravel API](https://svg.bookmark.style/api?url=https://github.com/yourgithub/laravel-api&mode=light&style=horizontal)](https://github.com/yourgithub/laravel-api)
 
@@ -38,6 +33,3 @@
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
-## 𝗦𝘁𝗮𝘁𝘀
-
-![yousifzaky's github stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=dracula)
