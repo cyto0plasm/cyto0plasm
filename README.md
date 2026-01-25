@@ -21,25 +21,46 @@
     </td>
     <td width="55%" valign="middle" style="padding: 0 0 0 20px;">
       <h3 style="margin: 0 0 10px 0;">✅ Taskly - Task Management Platform</h3>
-      <p style="margin: 0 0 15px 0; color: #666; line-height: 1.6;">
+      <p style="margin: 0 0 15px 0; color: #666; line-height: 1.6; font-size: 14px;">
         Modern task management web application with intuitive dashboard, user authentication, and comprehensive task tracking features.
       </p>
-      <p style="margin: 0 0 15px 0;">
+      <p style="margin: 0;">
         <a href="https://github.com/cyto0plasm/Taskly-Web">
           <img src="https://img.shields.io/badge/View_Project-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
         </a>
       </p>
-      <details>
-        <summary style="cursor: pointer; font-weight: 600; color: #667eea; margin-bottom: 10px;">📸 View More Screenshots (3)</summary>
-        <div style="margin-top: 10px;">
-          <img src="https://raw.githubusercontent.com/cyto0plasm/Taskly-Web/9f608d14d31dd6532de4fd85a3c06362cbf71a9c/public/images/tasklyHero.png" width="100%" style="border-radius: 6px; margin-bottom: 8px; display: block;"/>
-          <img src="https://github.com/cyto0plasm/Taskly-Web/blob/main/public/images/login.png?raw=true" width="100%" style="border-radius: 6px; margin-bottom: 8px; display: block;"/>
-          <img src="https://github.com/cyto0plasm/Taskly-Web/blob/main/public/images/taskInde.png?raw=true" width="100%" style="border-radius: 6px; display: block;"/>
-        </div>
-      </details>
     </td>
   </tr>
 </table>
+
+<details>
+  <summary style="cursor: pointer; font-weight: 600; color: #667eea; margin: 15px 0 10px 0;">📸 View Gallery (4 Screenshots) - Click to Expand</summary>
+  
+  <table style="margin-top: 10px;">
+    <tr>
+      <td width="25%" style="padding: 4px;">
+        <img src="https://raw.githubusercontent.com/cyto0plasm/Taskly-Web/9f608d14d31dd6532de4fd85a3c06362cbf71a9c/public/images/tasklyDashboard.png" width="100%" style="border-radius: 6px;"/>
+        <p align="center" style="font-size: 11px; color: #666; margin: 4px 0 0 0;">Dashboard</p>
+      </td>
+      <td width="25%" style="padding: 4px;">
+        <img src="https://raw.githubusercontent.com/cyto0plasm/Taskly-Web/9f608d14d31dd6532de4fd85a3c06362cbf71a9c/public/images/tasklyHero.png" width="100%" style="border-radius: 6px;"/>
+        <p align="center" style="font-size: 11px; color: #666; margin: 4px 0 0 0;">Hero</p>
+      </td>
+      <td width="25%" style="padding: 4px;">
+        <img src="https://github.com/cyto0plasm/Taskly-Web/blob/main/public/images/login.png?raw=true" width="100%" style="border-radius: 6px;"/>
+        <p align="center" style="font-size: 11px; color: #666; margin: 4px 0 0 0;">Login</p>
+      </td>
+      <td width="25%" style="padding: 4px;">
+        <img src="https://github.com/cyto0plasm/Taskly-Web/blob/main/public/images/taskInde.png?raw=true" width="100%" style="border-radius: 6px;"/>
+        <p align="center" style="font-size: 11px; color: #666; margin: 4px 0 0 0;">Tasks</p>
+      </td>
+    </tr>
+  </table>
+  
+  <p align="center" style="margin-top: 8px; font-size: 12px; color: #999;">
+    👆 Click "View Gallery" again to collapse
+  </p>
+</details>
 
 <table>
   <tr>
