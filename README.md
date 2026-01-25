@@ -12,8 +12,27 @@
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![Taskly-Web](https://svg.bookmark.style/api?url=https://github.com/cyto0plasm/Taskly-Web&mode=light&style=horizontal)](https://github.com/cyto0plasm/Taskly-Web)
-[![Flutter App](https://svg.bookmark.style/api?url=https://github.com/yourgithub/flutter-app&mode=dark&style=horizontal)](https://github.com/yourgithub/flutter-app)
-[![Laravel API](https://svg.bookmark.style/api?url=https://github.com/yourgithub/laravel-api&mode=light&style=horizontal)](https://github.com/yourgithub/laravel-api)
+<table>
+  <tr>
+    <td width="45%" style="padding: 0;">
+      <a href="https://github.com/cyto0plasm/logicGates/tree/main">
+        <img src="https://raw.githubusercontent.com/cyto0plasm/logicGates/7c0237323b243e7032b263b875c9c95008dd6780/assets/img/LogicGatesHomeH.png" width="100%" style="border-radius: 8px; display: block;"/>
+      </a>
+    </td>
+    <td width="55%" valign="middle" style="padding: 0 0 0 20px;">
+      <h3 style="margin: 0 0 10px 0;">🔌 Logic Gates Learning Platform</h3>
+      <p style="margin: 0 0 15px 0; color: #666; line-height: 1.6;">
+        Interactive educational platform with visual simulations and hands-on examples to master digital logic gates and Boolean algebra.
+      </p>
+      <p style="margin: 0;">
+        <a href="https://github.com/cyto0plasm/logicGates/tree/main">
+          <img src="https://img.shields.io/badge/View_Project-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
