@@ -11,7 +11,7 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Taskly-Web](https://github.com/cyto0plasm/Taskly-Web/blob/VueWaySFC/public/images/taskInde.png?raw=true)](https://github.com/cyto0plasm/Taskly-Web)
+[![Taskly-Web](https://svg.bookmark.style/api?url=https://github.com/cyto0plasm/Taskly-Web&mode=light&style=horizontal)](https://github.com/cyto0plasm/Taskly-Web)
 [![Flutter App](https://svg.bookmark.style/api?url=https://github.com/yourgithub/flutter-app&mode=dark&style=horizontal)](https://github.com/yourgithub/flutter-app)
 [![Laravel API](https://svg.bookmark.style/api?url=https://github.com/yourgithub/laravel-api&mode=light&style=horizontal)](https://github.com/yourgithub/laravel-api)
 
