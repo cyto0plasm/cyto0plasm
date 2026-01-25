@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**cyto0plasm/cyto0plasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I’m يوسف (زكي)
 
-Here are some ideas to get you started:
+Backend-focused developer who enjoys building real systems and understanding how things work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on
+- A **Task Manager** using Laravel + Vue 3
+- Improving UI behavior (transitions, state updates)
+- Writing cleaner backend logic
+
+### 🌱 Currently learning
+- Vue 3 Composition API
+- Frontend–backend communication patterns
+- Better project structure & refactoring
+
+### 🛠 Tech Stack
+- **Backend:** Laravel, PHP, MySQL  
+- **Frontend:** Vue 3, Tailwind CSS  
+- **Tools:** Git, GitHub
+
+### 📌 Featured Projects
+- 🗂 **Task Manager** – Laravel API + Vue frontend  
+- 🧩 **ERP Modules** – database & backend design (WIP)
+
+### 💬 Ask me about
+- Laravel APIs
+- Vue basics & transitions
+- Learning by building real projects
+
+> I focus on learning deeply, not just copying solutions.
+
