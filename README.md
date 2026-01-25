@@ -15,6 +15,35 @@
 <table>
   <tr>
     <td width="45%" style="padding: 0;">
+      <a href="https://github.com/cyto0plasm/Taskly-Web">
+        <img src="https://raw.githubusercontent.com/cyto0plasm/Taskly-Web/9f608d14d31dd6532de4fd85a3c06362cbf71a9c/public/images/tasklyDashboard.png" width="100%" style="border-radius: 8px; display: block;"/>
+      </a>
+    </td>
+    <td width="55%" valign="middle" style="padding: 0 0 0 20px;">
+      <h3 style="margin: 0 0 10px 0;">✅ Taskly - Task Management Platform</h3>
+      <p style="margin: 0 0 15px 0; color: #666; line-height: 1.6;">
+        Modern task management web application with intuitive dashboard, user authentication, and comprehensive task tracking features.
+      </p>
+      <p style="margin: 0 0 15px 0;">
+        <a href="https://github.com/cyto0plasm/Taskly-Web">
+          <img src="https://img.shields.io/badge/View_Project-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+      </p>
+      <details>
+        <summary style="cursor: pointer; font-weight: 600; color: #667eea; margin-bottom: 10px;">📸 View More Screenshots (3)</summary>
+        <div style="margin-top: 10px;">
+          <img src="https://raw.githubusercontent.com/cyto0plasm/Taskly-Web/9f608d14d31dd6532de4fd85a3c06362cbf71a9c/public/images/tasklyHero.png" width="100%" style="border-radius: 6px; margin-bottom: 8px; display: block;"/>
+          <img src="https://github.com/cyto0plasm/Taskly-Web/blob/main/public/images/login.png?raw=true" width="100%" style="border-radius: 6px; margin-bottom: 8px; display: block;"/>
+          <img src="https://github.com/cyto0plasm/Taskly-Web/blob/main/public/images/taskInde.png?raw=true" width="100%" style="border-radius: 6px; display: block;"/>
+        </div>
+      </details>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="45%" style="padding: 0;">
       <a href="https://github.com/cyto0plasm/logicGates/tree/main">
         <img src="https://raw.githubusercontent.com/cyto0plasm/logicGates/7c0237323b243e7032b263b875c9c95008dd6780/assets/img/LogicGatesHomeH.png" width="100%" style="border-radius: 8px; display: block;"/>
       </a>
