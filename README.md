@@ -15,7 +15,7 @@
 
 ## 🚀 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Taskly-Web](https://svg.bookmark.style/api?url=https://github.com/cyto0plasm/Taskly-Web&mode=light&style=horizontal)](https://github.com/cyto0plasm/Taskly-Web)
+[![Taskly-Web](https://svg.bookmark.style/api?url=https://github.com/cyto0plasm/Taskly-Vue&mode=light&style=horizontal)](https://github.com/cyto0plasm/Taskly-Vue)
 
 ---
 
