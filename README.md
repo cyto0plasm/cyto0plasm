@@ -19,9 +19,7 @@
 ---
 
 ## 🚀 Currently Working On
-
 [![Portfolio-Monolithic-App](https://svg.bookmark.style/api?url=https://github.com/cyto0plasm/Portfolio-Monolithic-App&mode=light&style=horizontal)](https://github.com/cyto0plasm/Portfolio-Monolithic-App)
-[![View Repository](https://img.shields.io/badge/View-Repository-black?style=flat&logo=github)](https://github.com/cyto0plasm/Portfolio-Monolithic-App)
 ---
 
 ## Projects
