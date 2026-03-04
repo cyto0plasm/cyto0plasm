@@ -27,7 +27,7 @@
 <table>
 <tr>
 <td width="45%">
-  <a href="https://github.com/cyto0plasm/Taskly-Vue">
+  <a href="https://illustrious-gentleness-production-8b3f.up.railway.app/">
     <img src="https://raw.githubusercontent.com/cyto0plasm/Taskly-Vue/main/public/images/Dashboard.png" width="100%" style="border-radius:8px"/>
   </a>
 </td>
