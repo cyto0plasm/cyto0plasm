@@ -5,12 +5,16 @@
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Laravel+%2B+Vue+%2B+Flutter;Building+things+that+work.)](https://git.io/typing-svg)
-<br/>
-💡 *𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒂𝒘𝒆𝒔𝒐𝒎𝒆 𝒘𝒆𝒃 𝒂𝒏𝒅 𝒎𝒐𝒃𝒊𝒍𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔. 𝑪𝒉𝒆𝒄𝒌 𝒐𝒖𝒕 𝒎𝒚 𝒘𝒐𝒓𝒌.*
+
 <br/>
 
+💡 *𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒂𝒘𝒆𝒔𝒐𝒎𝒆 𝒘𝒆𝒃 𝒂𝒏𝒅 𝒎𝒐𝒃𝒊𝒍𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔. 𝑪𝒉𝒆𝒄𝒌 𝒐𝒖𝒕 𝒎𝒚 𝒘𝒐𝒓𝒌.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-cytoplasm.vercel.app-A78BFA?style=flat-square&logo=vercel&logoColor=white)](https://cytoplasm.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-zakiz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Yousif_Zaki202)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Yousif_Zaki202)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yousifzaki017@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=cyto0plasm&color=a78bfa&style=flat-square&label=visitors)](https://github.com/cyto0plasm)
 
@@ -19,10 +23,12 @@
 ---
 
 ## 🚀 Currently Working On
+
 [![Portfolio-Monolithic-App](https://svg.bookmark.style/api?url=https://github.com/cyto0plasm/Portfolio-Monolithic-App&mode=light&style=horizontal)](https://github.com/cyto0plasm/Portfolio-Monolithic-App)
+
 ---
 
-## Projects
+## 📂 Projects
 
 <table>
 <tr>
@@ -119,7 +125,7 @@ Interactive educational platform for learning digital logic and Boolean algebra.
 
 ---
 
-## Stack
+## 🛠 Stack
 
 ```
 Web      →  Laravel · Vue 3 · Tailwind · Inertia
@@ -132,8 +138,6 @@ Deploy   →  Vercel · Render · Fly.io
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=cyto0plasm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyto0plasm&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
