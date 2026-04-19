@@ -20,9 +20,10 @@
 
 <br/>
 
+<div style="margin-bottom:-20px">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&width=650&height=30&lines=what+do+you+build%3F+%E2%86%92+Software+that+solves+real+business+problems.;available+for+projects%3F+%E2%86%92+Yes.+Let%27s+talk.)](https://cytoplasm.vercel.app/)
-
-<br/>
+</div>
 
 </div>
 
