@@ -6,7 +6,7 @@
 
 **Full-Stack Developer &nbsp;·&nbsp; Web & Mobile**
 
-*I build custom software for businesses — clean, fast, and built to last.*
+*I build software for businesses — clean, fast, and built to last.*
 
 <br/>
 
