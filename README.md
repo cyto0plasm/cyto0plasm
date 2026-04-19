@@ -20,7 +20,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&width=520&lines=%24+what+do+you+build%3F+→+Software+that+solves+real+business+problems.;%24+available+for+projects%3F+→+Yes.+Let%27s+talk.)](https://cytoplasm.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&width=650&height=30&lines=what+do+you+build%3F+%E2%86%92+Software+that+solves+real+business+problems.;available+for+projects%3F+%E2%86%92+Yes.+Let%27s+talk.)](https://cytoplasm.vercel.app/)
 
 <br/>
 
@@ -30,20 +30,9 @@
 
 ##  Currently Working On
 
-<table>
-<tr>
-<td width="50%" align="center">
-
 [![Nexus_Core](https://svg.bookmark.style/api?url=https://github.com/cyto0plasm/Nexus_Core&mode=dark&style=horizontal)](https://github.com/cyto0plasm/Nexus_Core)
 
-</td>
-<td width="50%" align="center">
-
 [![Nexus_Mobile_App](https://svg.bookmark.style/api?url=https://github.com/cyto0plasm/Nexus_Mobile_App&mode=dark&style=horizontal)](https://github.com/cyto0plasm/Nexus_Mobile_App)
-
-</td>
-</tr>
-</table>
 
 ---
 
