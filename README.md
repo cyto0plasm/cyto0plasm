@@ -37,6 +37,18 @@
 
 ---
 
+##  Stack
+
+```
+Web      →  Laravel · Vue 3 · Tailwind
+Mobile   →  Flutter · Dart · Bloc
+DB       →  MySQL · SQLite · Firebase · Supabase
+Deploy   →  Vercel · Render · AWS EC2 (learning)
+```
+
+---
+
+
 ##  Projects
 
 <br/>
@@ -155,18 +167,6 @@ Interactive educational platform for learning digital logic and Boolean algebra.
 </tr>
 </table>
 
----
-
-## 🛠 Stack
-
-```
-Web      →  Laravel · Vue 3 · Tailwind
-Mobile   →  Flutter · Dart · Bloc
-DB       →  MySQL · SQLite · Firebase · Supabase
-Deploy   →  Vercel · Render · AWS EC2 (learning)
-```
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
